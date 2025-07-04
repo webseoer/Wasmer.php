@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: wasmer-php-webseoer
+owner: webseoer
+package: sha256:c839c187112dedb6ea98181c0461c183412cf1057989264f6e39fca2c9b2fbcd
